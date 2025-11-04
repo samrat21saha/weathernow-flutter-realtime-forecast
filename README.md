@@ -47,7 +47,22 @@ flutter run
 ```
 
 ## 📸 Screenshots
-- Home Screen	Weather Details	Forecast Chart	Rainy Mode
+
+- Signup/Login Page
+- <img width="1024" height="1024" alt="Signup_Login" src="https://github.com/user-attachments/assets/1e5db388-fb88-48f6-aeb2-3d1d1e066518" />
+
+- Home Page (Current Location weather)
+- <img width="1024" height="1024" alt="Home (Current Location weather)" src="https://github.com/user-attachments/assets/6661dbcd-428c-43bf-9297-599a3f883234" />
+
+- Search City Page
+- <img width="1024" height="1024" alt="Search Cities" src="https://github.com/user-attachments/assets/3deadbb0-0d8d-4486-aa6d-cbac3f554cc5" />
+
+- Weather Map Page
+- <img width="1024" height="1024" alt="Weather Map page" src="https://github.com/user-attachments/assets/141bade9-de48-48b5-a4a0-05456c97215e" />
+
+- 7 Days Forecast Page
+- <img width="1024" height="1024" alt="7 Days Forecast" src="https://github.com/user-attachments/assets/757a0fa1-ab1e-4e7c-939e-2cac11b7c277" />
+
 
 ## 🧩 Architecture Overview
 - Bloc Pattern – Decouples UI, business logic, and API calls.
